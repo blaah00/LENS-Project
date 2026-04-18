@@ -18,7 +18,6 @@ Post-training surveys measure satisfaction, not learning. Completion rates measu
 
 **[→ Open LENS](https://yourusername.github.io/lens-project)**
 
-*(Replace with your GitHub Pages URL after deployment)*
 
 ---
 
